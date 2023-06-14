@@ -1,2 +1,2 @@
 # DataChecker
-You can pull numbers and image-formatted information from the database with this script.
+You can pull image-formatted information from the database with this script.
